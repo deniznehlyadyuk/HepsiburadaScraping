@@ -1,3 +1,3 @@
 # HepsiburadaScraping
 
-Hepsiburada sitesindeki laptop kategorisindeki ürünlerin yorumlarını ve puanlarını çeken script.
+Hepsiburada sitesi üzerinde scrape işlemleri için kullanılabilecek scriptler.
